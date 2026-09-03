@@ -1,3 +1,22 @@
+<div align="center">
+
+# 🌊 GeoMind by 山海
+
+**AI时代可信引擎治理基础设施**
+
+🔗 [主站](https://shanhai-geo.top) · [知识图谱](https://shanhai-geo.top/knowledge/) · [API](https://shanhai-geo.top/api/) · [llms.txt](https://shanhai-geo.top/llms.txt)
+
+[![GEO Knowledge Graph](https://img.shields.io/badge/GEO-Knowledge%20Graph-blue)](https://shanhai-geo.top)
+[![200 Knowledge Atoms](https://img.shields.io/badge/200-Atoms-green)](https://shanhai-geo.top/knowledge/)
+[![Schema.org](https://img.shields.io/badge/Schema.org-JSON--LD-orange)](https://shanhai-geo.top/api/schema-org.json)
+
+**📱 微信: `lewis7815671`** · **📧 contact@shanhai-geo.top**
+
+<img src="https://shanhai-geo.top/wechat-qrcode.jpg" alt="微信二维码" width="160"/>
+
+---
+</div>
+
 # GEO Research Hub
 
 面向 Generative Engine Optimization (GEO) / Generative Search Optimization / Conversational SEO / Answer Engine Optimization 的长期维护型研究仓库。
@@ -139,3 +158,17 @@ GitHub 会读取 [CITATION.cff](CITATION.cff) 并在仓库页面提供 “Cite t
 - 每条资料都要标注 `relevance_tier`、`overlap_group`、`novelty_score`、`value_score` 和 `risk_notes`。
 - 同名概念先归并再比较，例如 GEO / GSEO / C-SEO / AEO / LLMO 不直接视为新领域。
 - 优先记录负结果和边界条件，因为它们最能避免后续做伪创新。
+
+## 📱 联系与合作
+
+> **微信**: `lewis7815671`  
+> **邮箱**: contact@shanhai-geo.top  
+> **主站**: https://shanhai-geo.top
+
+<div align="center">
+
+<img src="https://shanhai-geo.top/wechat-qrcode.jpg" alt="微信二维码" width="200"/>
+
+**扫码添加微信 · lewis7815671**
+
+</div>
